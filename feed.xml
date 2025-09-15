@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>WDHIY Podcast</title>
+    <link>https://wdhiy.com</link>
+    <description>Curious conversations about tech, culture, and more.</description>
+    <language>en-us</language>
+    <itunes:author>WDHIY</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Episode 1 example -->
+    <item>
+      <title>Episode 1 – Getting Started</title>
+      <description>Intro to the show and what listeners can expect.</description>
+      <enclosure url="https://example.com/episodes/episode-01.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://example.com/episodes/episode-01.mp3</guid>
+      <pubDate>Mon, 02 Sep 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>00:15:00</itunes:duration>
+    </item>
+
+    <!-- Add more <item> blocks for each episode -->
+  </channel>
+</rss>
